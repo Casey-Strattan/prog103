@@ -108,3 +108,4 @@ for (site in sites) {
 }
 # P10 Examine your results from P9. You should find two outputs where both
 # extreme heat and cold exposure were 0. What season were they in?
+# Fall.
