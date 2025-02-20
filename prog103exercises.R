@@ -15,6 +15,7 @@ dna2 <- "attattaggaacaca"
 # Use them to print whether or not the following statements are TRUE or FALSE.
 #
 # w is greater than 10
+print
 # "green" is in colors
 # x is greater than y
 # Each value in masses is greater than 40.
@@ -60,7 +61,6 @@ y
 # age_class as an argument and returns y. Call this function 4 times, once with
 # each of the following values for age_class: “egg”, “larva”, “adult”,
 # “senescent”.
-
 
 # Repeating yourself with vectorized functions ----------------------------
 
